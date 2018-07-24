@@ -1,3 +1,5 @@
+#Portfolio My ongoing portfolio showcasing Data Science and Big Data (Hadoop) Projects
+
 Data Science Portfolio
 
-Repository containing portfolio of data science projects completed by me.
+Big Data (Hadoop) Portfolio
